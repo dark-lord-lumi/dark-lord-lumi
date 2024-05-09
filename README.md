@@ -1,6 +1,6 @@
 - Hello! I'm @dark-lord-lumi
 - they/them/theirs
-- I'm learning C# lol
+- I'm learning C# and GDScript lol
 - Making a game with my friends!
   
 
